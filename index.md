@@ -1,3 +1,10 @@
+# Srinatha's First CS193 Homework
+Favorite Things About CS193:
+- Github
+- Terminal
+- Some of my friends are also taking CS193
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -14,12 +21,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-# HEADER 4 - THE NEW HEADER
-
-# List of Colors:
-- Blue
-- Green
-- Yellow
 
 - Bulleted
 - List
